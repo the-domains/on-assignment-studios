@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/56766938'
 title: CAA Stars of Life 2007
-datePublished: '2016-07-07T20:19:41.723Z'
-dateModified: '2016-07-07T17:21:00.483Z'
+datePublished: '2016-07-07T20:19:43.904Z'
+dateModified: '2016-07-07T17:20:32.439Z'
 starred: false
 sourcePath: _posts/2016-07-07-caa-stars-of-life-2007.md
 inFeed: true
