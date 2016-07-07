@@ -7,20 +7,6 @@
         <lastBuildDate>Thu, 07 Jul 2016 20:20:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/on-assignment-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Southern EMS]]></title>
-            <description><![CDATA[<article><h1>Southern EMS</h1><p>aerial #drone #emergency #EMS #ambulance #fire #jawsoflife</p></article>]]></description>
-            <link>https://vimeo.com/124490287</link>
-            <guid isPermaLink="false">53226f4b-2445-4973-bc96-009d12256a61</guid>
-            <pubDate>Thu, 07 Jul 2016 20:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CAA Stars of Life 2007]]></title>
-            <description><![CDATA[<article><h1>CAA Stars of Life 2007</h1><p>This is "CAA Stars of Life 2007" by on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
-            <link>https://vimeo.com/56766938</link>
-            <guid isPermaLink="false">3945d9b0-1699-48e4-a420-e01df78d2d23</guid>
-            <pubDate>Thu, 07 Jul 2016 20:19:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CAA Stars of Life 2007]]></title>
             <description><![CDATA[<article><h1>CAA Stars of Life 2007</h1><p>This is "CAA Stars of Life 2007" by on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
             <link>https://vimeo.com/56766938</link>
@@ -75,6 +61,13 @@
             <link>https://vimeo.com/70376454</link>
             <guid isPermaLink="false">c9206514-1141-4f7a-9409-55ec04e0930b</guid>
             <pubDate>Thu, 07 Jul 2016 20:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg" alt="Professional EMS: Cambridge, Massachusetts">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg</link>
+            <guid isPermaLink="false">d27a26c2-6edf-4d12-8fcb-41fd795637ff</guid>
+            <pubDate>Thu, 07 Jul 2016 20:19:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
