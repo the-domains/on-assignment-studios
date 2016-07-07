@@ -4,8 +4,15 @@
         <description><![CDATA[On Assignment Studios]]></description>
         <link>https://thegrid.ai/on-assignment-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 20:33:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/on-assignment-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg" alt="Professional EMS: Cambridge, Massachusetts">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg</link>
+            <guid isPermaLink="false">d27a26c2-6edf-4d12-8fcb-41fd795637ff</guid>
+            <pubDate>Thu, 07 Jul 2016 20:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32306e7b-15d2-4a18-ad21-17fa80fb1713.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/on-assignment-studios/6dc6f0d6-1a43-46ff-b300-7657258bd135/index.html</link>
             <guid isPermaLink="false">6dc6f0d6-1a43-46ff-b300-7657258bd135</guid>
             <pubDate>Thu, 07 Jul 2016 20:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50aa0593-4148-4d77-84a6-a77cb0f1fdf1.jpg">]]></description>
-            <link>https://thegrid.ai/on-assignment-studios/54f9c767-6f5e-4a58-a022-e24a3865e76e/index.html</link>
-            <guid isPermaLink="false">54f9c767-6f5e-4a58-a022-e24a3865e76e</guid>
-            <pubDate>Thu, 07 Jul 2016 20:32:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
