@@ -1,4 +1,3 @@
-layout_spectrum: 0.6733814489562064
 typography_spectrum: 0.13683564704842865
 color:
   brandStrength: 0.1501407427713275
@@ -11,4 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.6733814489562064
+author:
+  name: Chris Swabb
+  email: chris@onassignmentstudios.com
 name: On Assignment Studios
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/259af6be-1c62-43ba-9667-ff5b04ac6dc9.jpg
