@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/on-assignment-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4dd5d57-0bf3-43f0-9cb8-9cb9543e8b67.jpg">]]></description>
+            <link>https://thegrid.ai/on-assignment-studios/396ac543-2ae8-4e8e-9e92-df1897704671/index.html</link>
+            <guid isPermaLink="false">396ac543-2ae8-4e8e-9e92-df1897704671</guid>
+            <pubDate>Thu, 07 Jul 2016 20:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cd770b7-7ba8-4ba1-97b4-82d808edf401.jpg">]]></description>
             <link>https://thegrid.ai/on-assignment-studios/532a4713-d994-4421-8cfe-2cde8ca6e41c/index.html</link>
             <guid isPermaLink="false">532a4713-d994-4421-8cfe-2cde8ca6e41c</guid>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/56042558</link>
             <guid isPermaLink="false">e93400b9-a07c-4fbd-bb1e-10af973d1f45</guid>
             <pubDate>Thu, 07 Jul 2016 20:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd98fd1-3f58-473c-a748-9d7aad8ee99e.jpg">]]></description>
-            <link>https://thegrid.ai/on-assignment-studios/3c4b62e1-5040-4cc8-be9d-ce252c9ab09a/index.html</link>
-            <guid isPermaLink="false">3c4b62e1-5040-4cc8-be9d-ce252c9ab09a</guid>
-            <pubDate>Thu, 07 Jul 2016 20:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
