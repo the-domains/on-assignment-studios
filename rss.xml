@@ -4,8 +4,15 @@
         <description><![CDATA[On Assignment Studios]]></description>
         <link>https://thegrid.ai/on-assignment-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 20:32:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/on-assignment-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf2c0ea8-fce6-4262-8116-bed442e72d09.jpg">]]></description>
+            <link>https://thegrid.ai/on-assignment-studios/737fd50a-189f-4414-af13-da7494de9ea5/index.html</link>
+            <guid isPermaLink="false">737fd50a-189f-4414-af13-da7494de9ea5</guid>
+            <pubDate>Thu, 07 Jul 2016 20:32:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d919f53-db7f-4aec-a6b9-de5435362e3d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/on-assignment-studios/d68f072c-7d95-4a9a-830c-7027c1bc650a/index.html</link>
             <guid isPermaLink="false">d68f072c-7d95-4a9a-830c-7027c1bc650a</guid>
             <pubDate>Thu, 07 Jul 2016 20:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d7a0e8a-0ce2-4f1d-ac4a-cd59cffeb1bf.jpg">]]></description>
-            <link>https://thegrid.ai/on-assignment-studios/fa4046b5-28bb-46c8-8361-10bb438aab92/index.html</link>
-            <guid isPermaLink="false">fa4046b5-28bb-46c8-8361-10bb438aab92</guid>
-            <pubDate>Thu, 07 Jul 2016 20:19:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
