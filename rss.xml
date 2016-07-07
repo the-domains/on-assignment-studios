@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[On Assignment Studios]]></title>
+        <description><![CDATA[On Assignment Studios]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 20:19:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg" alt="Professional EMS: Cambridge, Massachusetts">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg</link>
+            <guid isPermaLink="false">d27a26c2-6edf-4d12-8fcb-41fd795637ff</guid>
+            <pubDate>Thu, 07 Jul 2016 20:19:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
