@@ -1,16 +1,16 @@
 typography_spectrum: 0.13683564704842865
 color:
-  brandStrength: 0.1501407427713275
-  lightness: 0.9036501047667116
-  saturation: 0.6839627420995384
-  rhythmicContrast: 0.0467002319637686
+  brandStrength: 0.4974503261037171
+  lightness: 0.930290941381827
+  saturation: 0.13199648866429925
+  rhythmicContrast: 0.009059618460014462
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.6733814489562064
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.5443997769616544
 author:
   name: Chris Swabb
   email: chris@onassignmentstudios.com
