@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[On Assignment Studios]]></title>
         <description><![CDATA[On Assignment Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/on-assignment-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:19:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 20:19:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/on-assignment-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ArtReach: Bringing Art to All Students]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F70376454&url=https%3A%2F%2Fvimeo.com%2F70376454&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F454380081_640.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://vimeo.com/70376454</link>
+            <guid isPermaLink="false">c9206514-1141-4f7a-9409-55ec04e0930b</guid>
+            <pubDate>Thu, 07 Jul 2016 20:19:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db8e548-e7a6-45f2-a97e-1050d84bdb37.jpg" alt="Professional EMS: Cambridge, Massachusetts">]]></description>
