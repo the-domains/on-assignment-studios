@@ -1,7 +1,24 @@
+typography_spectrum: 0.5119048
+color:
+  saturation: 0.6917293
+  brandStrength: 0.4974503261037171
+  lightness: 0.8677945
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  rhythmicContrast: 0.7368421
+layout_spectrum: 0.2443609
 author:
   name: Chris Swabb
   email: chris@onassignmentstudios.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f3569e-d44b-4b94-a63d-4accb2f4ea73.jpg
 name: On Assignment Studios
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/259af6be-1c62-43ba-9667-ff5b04ac6dc9.jpg
 collections:
   - index:
       path: /
@@ -14,20 +31,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/274a7573-286c-4e3d-b8c2-8cebcda06f09.png
-color:
-  saturation: 0.6917293
-  brandStrength: 0.4974503261037171
-  lightness: 0.8677945
-  brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  rhythmicContrast: 0.7368421
-typography_spectrum: 0.5119048
-layout_spectrum: 0.2443609
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/259af6be-1c62-43ba-9667-ff5b04ac6dc9.jpg
